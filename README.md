@@ -17,6 +17,8 @@ Este projeto é uma API simples para controle financeiro, desenvolvida em Node.j
 4. Inicie o servidor: `npm run dev`
 5. Acesse a API em `http://localhost:3000`
 
+> Você pode usar o arquivo [`./Insomnia_2023-10-30.json`](./Insomnia_2023-10-30.json) para carregar os endpoints no Insomnia.
+
 ## Scripts SQL:
 Você precisa criar um Banco de Dados PostgreSQL chamado `dindin` contendo as seguintes tabelas:
 - Arquivo para criar as tabelas: [cria_tabelas.sql](./cria_tabelas.sql)
